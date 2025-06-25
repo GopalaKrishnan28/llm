@@ -1,0 +1,11 @@
+This model file (tinyllama-1.1b-chat-v1.0.Q6_K.gguf) is a quantized version of:
+
+Original model: TinyLlama/TinyLlama-1.1B-Chat-v1.0
+Available at: https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0
+
+Quantized and released by: TheBloke
+Quantization method: Q6_K GGUF
+Original quantized model available at:
+https://huggingface.co/TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF
+
+License: Apache License 2.0
